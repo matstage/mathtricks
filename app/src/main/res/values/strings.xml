@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Mathtricks</string>
+    <string name="ExecuteButton">Calculate</string>
+    <string name="resultTextview">TextView</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second number</string>
+
+    <string-array name="mathsoperators">
+    <item>Multi</item>
+    <item>Div</item>
+    <item>Diff</item>
+    <item>Add</item>
+    </string-array>
+
 </resources>
